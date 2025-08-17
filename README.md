@@ -92,5 +92,5 @@ Tina Sanders! She has visited the hospital 7 times! What could be the issue? We 
 - ➡️ Monthly appointments show a declining trend.
 
 # Conclusion & Recommendations:
-☑️ Replicate top performers’ strategies to improve efficiency
-☑️ Increase insurance access through outreach or partnerships
+- ☑️ Replicate top performers’ strategies to improve efficiency
+- ☑️ Increase insurance access through outreach or partnerships
